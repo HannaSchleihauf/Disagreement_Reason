@@ -583,7 +583,7 @@ exp1_plot_trial <-
     position = position_jitter(w = 0.2, h = 0.05)
   ) +
   scale_color_manual(
-    values = c("chartreuse3", "orangered3"),
+    values = c("green4", "red3"),
     labels = c(
       "Agreement condition",
       "Disagreement condition                 "
