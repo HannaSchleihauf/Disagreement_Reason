@@ -1,6 +1,7 @@
 *.Rproj.user
 *.Rhistory
-*.RdataTemp
-*.RdataTemp1
-
+*.RDataTmp
+*.RData
+*.Rproj
+*.projectlog
 *.DS_Store
