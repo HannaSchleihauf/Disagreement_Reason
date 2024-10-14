@@ -24,7 +24,7 @@ six components organize the inputs and outputs of this project:
 3.  [`scripts`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/scripts):
     R-scripts that read, analyze, and produce all outputs.
 
-4.  [`R_images`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/R_images):
+4.  [`R_images`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/RData_files):
     Contains all R outputs.
     
 4.  [`Plots`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/plots):
