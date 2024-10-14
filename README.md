@@ -1,14 +1,14 @@
 
-\[Children Across Diverse Societies Exchange Reasons to Resolve Disagreements\]
+\Children Across Diverse Societies Exchange Reasons to Resolve Disagreements\
 ================
 
 *Last updated on Monday, OCTOBER 14, 2024 at 06:42 PM*
 
 ## Overview
 
-This repository contains a data and code for a project entitled ‘\[Children Across Diverse Societies Exchange Reasons to Resolve Disagreements\]’.
+This repository contains a data and code for a project entitled ‘\Children Across Diverse Societies Exchange Reasons to Resolve Disagreements\’.
 
-\[The exchange of reasons in rational discourse is crucial for resolving disagreements. Some theories consider reason-giving a human universal. However, others view it as a Western phenomenon, suggesting that individuals in other cultural contexts rely predominantly on mechanisms like authority or dominance to resolve disagreements. In a preregistered cross-cultural study, 360 5- to 9-year-old children from China, Kenya and the US participated in a dyadic collaborative reasoning task. In each cultural context, children consistently gave reasons to reach consensus. Reason-giving was spontaneous—it appeared without prior training—and flexible: children selectively provided reasons in contexts of disagreement but not in contexts of agreement. In contrast, we did not find an effect of dominance. These findings challenge claims that the exchange of reasons is a Western-unique mechanism for collective decision-making and suggest that, from a young age, children across diverse societies possess key capacities for engaging in rational public discourse.\].
+\The exchange of reasons in rational discourse is crucial for resolving disagreements. Some theories consider reason-giving a human universal. However, others view it as a Western phenomenon, suggesting that individuals in other cultural contexts rely predominantly on mechanisms like authority or dominance to resolve disagreements. In a preregistered cross-cultural study, 360 5- to 9-year-old children from China, Kenya and the US participated in a dyadic collaborative reasoning task. In each cultural context, children consistently gave reasons to reach consensus. Reason-giving was spontaneous—it appeared without prior training—and flexible: children selectively provided reasons in contexts of disagreement but not in contexts of agreement. In contrast, we did not find an effect of dominance. These findings challenge claims that the exchange of reasons is a Western-unique mechanism for collective decision-making and suggest that, from a young age, children across diverse societies possess key capacities for engaging in rational public discourse.\
 
 ## Directory Structure
 
