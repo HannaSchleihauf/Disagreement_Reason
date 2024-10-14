@@ -1,6 +1,6 @@
 # Study Name: How Disagreement influences Reason-Giving
 # Authors: Hanna Schleihauf & Antonia Langenhoff
-# Analysis: Hypotheses 3: In the disagreement condition, we expect to find
+# Analysis: In the disagreement condition, we expect to find
 # differences between cultures and age groups in how often dyads give the
 # testimony-based or the perceptual reason until they come to a decision.
 # For example, since younger children in China might find authority-based
@@ -322,4 +322,4 @@ plot_culture_age <-
 
 plot_culture_age
 
-save.image("RData_files/Hypothesis_4.RData")
+save.image("RData_files/Hypothesis_extra.RData")

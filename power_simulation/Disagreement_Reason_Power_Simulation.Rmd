@@ -471,10 +471,8 @@ lrt.data2 <- all.res1 %>%
     proportion.lrt.z.age.condition = length(lrt.p.z.age.condition[lrt.p.z.age.condition < 0.05]) / n.simus,
     proportion.lrt.z.age.condition.culture = length(lrt.p.z.age.condition.culture[lrt.p.z.age.condition.culture < 0.05]) / n.simus,
     proportion.lrt.z.culture.condition = length(lrt.p.condition.culture[lrt.p.condition.culture < 0.05]) / n.simus,
-    proportion.lrt.condition = length(lrt.p.condition[lrt.p.condition <= 0.05]) / n.simus,
-    pwr = mean(lrt.p.z.age.condition <= 0.05)
+    proportion.lrt.condition = length(lrt.p.condition[lrt.p.condition <= 0.05]) / n.simus
   )
-
 lrt.data2
 
 ftable(xdata$reasons ~ xdata$condition + xdata$culture)
