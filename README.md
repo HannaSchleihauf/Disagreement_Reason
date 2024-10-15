@@ -21,11 +21,21 @@ six components organize the inputs and outputs of this project:
 2.  [`data`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/data):
     raw data, stored as .csv and excle files.
 
-3.  [`scripts`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/scripts):
+3. 
+    [`functions`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/functions):
+    All functions used in the scripts.
+    
+4.  [`plots`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/plots):
+    Contails pdf files of all plots created in the scripts.
+    
+5.  [`power simulation`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/power_simulation):
+    Code for power simulation with which sample size was determined
+    
+6.  [`R_images`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/RData_files):
+    Contains all R outputs.
+7.  [`scripts`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/scripts):
     R-scripts that read, analyze, and produce all outputs.
 
-4.  [`R_images`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/RData_files):
-    Contains all R outputs.
+
     
-4.  [`Plots`](https://github.com/HannaSchleihauf/Disagreement_Reason_shared/tree/master/plots):
-    Contails pdf files of all plots created in the scripts.
+
