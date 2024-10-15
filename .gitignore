@@ -1,7 +1,6 @@
 *.Rproj.user
 *.Rhistory
 *.RDataTmp
-*.RData
 *.Rproj
 *.projectlog
 *.DS_Store
